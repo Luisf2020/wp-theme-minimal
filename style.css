@@ -1,0 +1,14 @@
+/*
+Theme Name: LZ Minimal
+Theme URI: https://zyvrasoftware.com/
+Author: Luis Felipe Zuniga Leon
+Description: Tema WordPress minimo: soportes, menu, plantillas y estilos base.
+Version: 1.0.0
+License: GPL-2.0-or-later
+Text Domain: lz-minimal
+*/
+
+body { font-family: system-ui, sans-serif; margin: 0; color: #0f172a; }
+.site-header { border-bottom: 1px solid #e2e8f0; padding: 1rem 1.5rem; }
+.site-main { max-width: 760px; margin: 2rem auto; padding: 0 1.5rem; }
+.site-footer { border-top: 1px solid #e2e8f0; padding: 1rem 1.5rem; color: #64748b; }
